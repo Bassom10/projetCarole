@@ -1,0 +1,136 @@
+nav{
+    background-color: rgb(96, 88, 148);
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+}
+
+.navbar-light .navbar-brand .-brand{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link .nav-a{
+    color: #fff;
+    font-size: 16px;
+}
+
+.cont{
+ margin-top: 100px;
+}
+
+.icon{
+  width: 20px;
+  height: 20px;
+
+}
+
+#Fimg_profil{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.btn_new{
+   float: left;
+   margin-top: 20px;
+   margin-bottom: 50px;
+    width: 100%;
+    height: 40px;
+    
+}
+
+.btn__{
+    float: left;
+    margin-top: 10px;
+    margin-left: 965px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding: 9px 10px;
+    font-size: 15px;
+    background-color: rgb(22, 79, 235);
+    color: white;
+    cursor: pointer;
+    border: none;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+}
+
+.btn__:hover{
+    background-color: rgb(33, 46, 104);
+
+}
+
+.upload{
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 10px;
+
+}
+.label-file {
+  cursor: pointer;
+  color: #00b1ca;
+  font-weight: bold;
+}
+.label-file:hover {
+  color: #25a5c4;
+}
+
+.input-file {
+  display: none;
+}
+
+.button {
+  float: left;
+   padding: 5px 18px;
+   border: 1px solid  #31023a ;
+   border-radius: 5px;
+   background-color: #ffffff;
+   color:  #4307a5  ;
+   font-size: 15px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   cursor: pointer;
+   margin-right: 20px;
+}
+
+.form_actualite{
+     float: left;
+     margin-left: 400px;
+     margin-top: 100px;
+     
+}
+
+.input_text{
+      width: 300px;
+      height: 50px ;
+      border: 1px solid  #31023a ;
+      border-radius: 5px;
+      padding :  10px;
+
+}
+
+.form_actualite h3{
+  text-align: center;
+}
+
+.photo_actualite{
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+
+}
+

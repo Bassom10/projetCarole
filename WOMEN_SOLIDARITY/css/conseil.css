@@ -1,0 +1,163 @@
+nav{
+    background-color: rgb(62, 50, 107);
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+}
+
+
+
+.navbar-light .navbar-brand .-brand{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link .nav-a{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 7px 8px;
+    border-radius: 10px;
+
+}
+
+.navbar-light .navbar-nav .nav-link .nav-a:hover{
+  background-color: rgb(117, 92, 114);
+}
+
+.container_{
+    float: left;
+    height: 400px;
+    width: 100%;
+    background-color: rgb(221, 207, 207);
+  }
+  .msg h5{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+  }
+  .msg h6{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+  }
+  .msg .btn_{
+    float: left;
+    margin-left: 580px;
+    margin-top: 40px;
+  }    
+
+
+  .msg .list{
+    float: left;
+    height: auto;
+    width: 1030px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 9px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+   ;
+  }
+
+  .conseil{
+      float: left;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      width: 850px;
+      height: auto;
+      margin-left: 90px;
+      padding: 10px 10px;
+      box-shadow:
+      2px 2.8px 2.2px rgba(0, 0, 0, 0.034),
+      3px 6.7px 5.3px rgba(0, 0, 0, 0.048),
+      8px 12.5px 10px rgba(0, 0, 0, 0.06)
+     ;
+  }
+
+  .conseil .conseil_p{
+    float: left;
+    text-align:left;
+    width: 500px;
+    height: auto; 
+    font-size: 18px;
+    font-weight: 800;  
+}
+
+.conseil .conseil_btn{
+  float: left;
+  width: 230px;
+  margin-left: 100px;
+}
+
+
+
+ .conseil_number{
+    float: left;
+    margin-left: 10px;
+    width: 60px;
+    padding: 15px 0px;
+}
+
+ .conseil_icon{
+    width: 25px;
+    height: 25px;
+    margin-top: 5px;
+}
+
+
+.button{
+  float: left;
+  margin-top: 15px;
+  background-color: rgb(44, 104, 196);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 10px;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.button:hover{
+border: 1px solid rgb(44, 108, 245);  
+color: white;
+}
+
+.button2{
+  float: left;
+  margin-left: 4px;
+  margin-top: 15px;
+  background-color: rgb(201, 43, 43);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 10px;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.button2:hover{
+border: 1px solid rgb(226, 4, 4);  
+color: white;
+}
+
+
+
+
+   
+
+  

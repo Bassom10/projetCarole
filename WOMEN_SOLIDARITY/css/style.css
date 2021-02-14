@@ -1,0 +1,104 @@
+.list .avis_entre{
+    float: left;
+    width: 960px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 35px;
+    background-color: rgb(240, 234, 234);
+    font-size: 18px;
+    padding: 20px;
+}
+
+
+.avis_entre .quest{
+    float: left;
+    width: 700px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 30px;
+    background-color: rgb(240, 234, 234);
+    font-size: 18px;
+}
+
+
+
+.entrepreneuse {
+    border-collapse: collapse;
+    width: 900px;
+    margin-left: 60px;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  
+  td {
+      width: 500px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+   
+  }
+  
+  tr {background-color:#dab5d2;
+}
+
+.photo_entrepreneuriat{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.avis_conseil{
+    position: fixed;
+    left: 400px;
+    bottom: 0px;
+    width: 530px;
+    height: auto;
+    background-color: rgb(110, 107, 107);
+    border-radius: 7px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+}
+
+.input_avis{
+    float: left;
+    border: 1px solid rgb(63, 5, 63);
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.btn_avis{
+    float: left;
+    padding: 8px 9px;
+    border-radius: 7px;
+    margin-top: 30px;
+    font-size: 14px;
+    margin-left: 17px;
+    background-color: darkslateblue;
+    color: white;
+}
+
+.avis_entre .date_{
+    float: left;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(240, 234, 234);
+    font-size: 14px;
+    
+  }
+
+  .avis_entre .logo_avis{
+      float: left;
+      margin-top: 10px;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+  }
+
